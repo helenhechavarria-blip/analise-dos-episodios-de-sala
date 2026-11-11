@@ -1,28 +1,28 @@
 
-🎀BLOCO 1🎀
+BLOCO 1
 
-🎀 Remoção de colunas sensíveis (Privacidade)
+Remoção de colunas sensíveis (Privacidade)
 
-🎀 Por quê: Retira dados de identificação pessoal (como nome ou CPF) para que o algoritmo não precise dessas informações no seu funcionamento e cumpra as leis de proteção de dados, evitando exposição desnecessária e vazamentos de privacidade, tornando as ações mais seguras.
+ Por quê: Retira dados de identificação pessoal (como nome ou CPF) para que o algoritmo não precise dessas informações no seu funcionamento e cumpra as leis de proteção de dados, evitando exposição desnecessária e vazamentos de privacidade, tornando as ações mais seguras.
 
-🎀 Normalização de Min-Max (Padronização)
+Normalização de Min-Max (Padronização)
 
-🎀 Ponto: Colocar todos os números (ex: horas estudadas, números e resultados) em uma mesma escala de 0 a 1. Isso impede que números maiores dominem os algoritmos, garantindo que o computador consiga processar os dados de uma forma mais fácil.
+Ponto: Colocar todos os números (ex: horas estudadas, números e resultados) em uma mesma escala de 0 a 1. Isso impede que números maiores dominem os algoritmos, garantindo que o computador consiga processar os dados de uma forma mais fácil.
 
-🎀 Manter os dados limpos e padronizados é importante para evitar que a IA apresente resultados incorretos. 
+Manter os dados limpos e padronizados é importante para evitar que a IA apresente resultados incorretos. 
 
-🎀 Entre você e uma IA, existe uma diferença importante em relação à privacidade, pois a IA precisa de proteção dos dados pessoais para não expor informações de uma pessoa real.
+Entre você e uma IA, existe uma diferença importante em relação à privacidade, pois a IA precisa de proteção dos dados pessoais para não expor informações de uma pessoa real.
 
-🎀 Tipos de proteção:
+Tipos de proteção:
 
 LGPD: Proteção legal dos dados pessoais.
 Deepface: Produção de imagens, vozes e vídeos falsos que podem manipular outras pessoas.
 Biometria: Proteção da identificação pessoal através de características como rosto e impressões digitais.
 
 
-🌹BLOCO 2🌹
+BLOCO 2
 
-🌹 Eu penso que do ponto de vista técnico, o problema do viés da IA foi principalmente uma falha de dados e de generalização.
+Eu penso que do ponto de vista técnico, o problema do viés da IA foi principalmente uma falha de dados e de generalização.
 
 Eu vejo isso da seguinte forma:
 
@@ -36,7 +36,7 @@ Eu acho que a IA sofreu de overfitting, porque aprendeu com um lado filtrado da 
 
 Como a IA não tinha dados da vida privada das pessoas, ela acabou tendo uma visão limitada da realidade e só viu uma cópia imperfeita da internet.
 
-🌹 Em uma frase: Os testes com usuários teriam mostrado o choque do "Vale da Estranheza" antes do lançamento, revelando que a IA era expressiva e fria no convívio diário.
+Em uma frase: Os testes com usuários teriam mostrado o choque do "Vale da Estranheza" antes do lançamento, revelando que a IA era expressiva e fria no convívio diário.
 
 Eu vejo isso em 3 pontos principais:
 
@@ -47,17 +47,17 @@ Eu vejo isso em 3 pontos principais:
 3- Melhoraria a experiência dos usuários: Com as opiniões das pessoas, os criadores poderiam ajustar a comunicação da IA para deixar as conversas mais naturais e agradáveis.
 
 
-💤 BLOCO 3💤
+BLOCO 3
 
-💤 Eu penso que o sistema de memórias Grain e o Git/GitHub possuem funções diferentes, mas os dois são importantes para organizar informações.
+ Eu penso que o sistema de memórias Grain e o Git/GitHub possuem funções diferentes, mas os dois são importantes para organizar informações.
 
-💤 Grain: Ajuda a guardar informações e históricos, mas precisa proteger os dados pessoais dos usuários, evitando que informações privadas sejam utilizadas sem autorização.
+Grain: Ajuda a guardar informações e históricos, mas precisa proteger os dados pessoais dos usuários, evitando que informações privadas sejam utilizadas sem autorização.
 
-💤 Git/GitHub: Permite acompanhar as mudanças feitas no código, mostrando quem alterou os arquivos e quando isso aconteceu. Também ajuda a recuperar versões anteriores.
+Git/GitHub: Permite acompanhar as mudanças feitas no código, mostrando quem alterou os arquivos e quando isso aconteceu. Também ajuda a recuperar versões anteriores.
 
-💤 Eu vejo que o histórico de commits é essencial porque permite identificar erros e acompanhar todas as mudanças do projeto. Porém, é necessário ter regras de segurança para evitar a exposição de senhas, dados pessoais e informações confidenciais.
+Eu vejo que o histórico de commits é essencial porque permite identificar erros e acompanhar todas as mudanças do projeto. Porém, é necessário ter regras de segurança para evitar a exposição de senhas, dados pessoais e informações confidenciais.
 
-💤 Eu penso que o viés de confirmação pode afetar muito uma análise, porque o cientista de dados pode procurar apenas informações que confirmam sua suspeita inicial, ignorando outros resultados importantes.
+Eu penso que o viés de confirmação pode afetar muito uma análise, porque o cientista de dados pode procurar apenas informações que confirmam sua suspeita inicial, ignorando outros resultados importantes.
 
 Eu vejo que os gráficos ajudam a evitar esse problema de 3 formas:
 
@@ -67,42 +67,42 @@ Eu vejo que os gráficos ajudam a evitar esse problema de 3 formas:
 
 3- Análise dos dados: Ajuda a verificar se um valor isolado é apenas uma exceção ou se realmente representa um padrão.
 
-💤 Por isso, eu acho que é importante analisar os dados de diferentes formas antes de chegar a uma conclusão.
+Por isso, eu acho que é importante analisar os dados de diferentes formas antes de chegar a uma conclusão.
 
 
-🎶BLOCO 4 🎶
+BLOCO 4 
 
 
-🎶 Eu penso que um modelo preditivo com R² muito baixo ou RMSE elevado não é confiável para tomar decisões importantes, porque pode apresentar previsões muito diferentes da realidade.
+ Eu penso que um modelo preditivo com R² muito baixo ou RMSE elevado não é confiável para tomar decisões importantes, porque pode apresentar previsões muito diferentes da realidade.
 
-🎶 Eu vejo isso em dois pontos principais:
+ Eu vejo isso em dois pontos principais:
 
 1- Falsos positivos: O sistema identifica uma ligação verdadeira como se fosse um golpe, causando preocupação e desconfiança nas famílias.
 
 2- Falsos negativos: O sistema identifica uma ligação falsa como se fosse verdadeira, fazendo com que as famílias possam cair no golpe e perder dinheiro.
 
-🎶Se isso acontecer, o governo precisa rever o modelo e melhorar a qualidade dos dados antes de utilizá-lo novamente.
+Se isso acontecer, o governo precisa rever o modelo e melhorar a qualidade dos dados antes de utilizá-lo novamente.
 
-🎶Por isso, eu acho que nenhuma decisão deve depender apenas da IA, principalmente em uma situação de emergência, onde um erro pode prejudicar muitas pessoas.
+Por isso, eu acho que nenhuma decisão deve depender apenas da IA, principalmente em uma situação de emergência, onde um erro pode prejudicar muitas pessoas.
 
 
-🪀Abertura:
+Abertura:
 
 Boa tarde. Estamos enfrentando um problema muito sério que utiliza inteligência artificial para clonar vozes e enganar famílias através de falsas chamadas de sequestro.
 
-🪀Problema:
+Problema:
 
 O principal problema é o terror psicológico causado por essas ligações, onde criminosos utilizam vozes falsas para assustar as pessoas e exigir pagamentos. Isso pode causar prejuízos financeiros e emocionais.
 
-🪀 Dados:
+ Dados:
 
 Eu considero importante analisar dados de chamadas suspeitas, denúncias e registros anteriores. Porém, precisamos verificar se essas informações são confiáveis e estão atualizadas para evitar erros na análise.
 
-🪀 Solução e IA Utilizada:
+Solução e IA Utilizada:
 
 Minha proposta é utilizar uma IA com análise de dados para identificar padrões de chamadas suspeitas e calcular a probabilidade de um possível golpe. O sistema também deve comparar informações e alertar as autoridades quando encontrar sinais de fraude.
 
-🪀Impacto e Próximos Passos:
+Impacto e Próximos Passos:
 
 Eu penso que a principal medida é orientar as famílias a não realizarem pagamentos por pressão e sempre verificarem a situação por outros meios de contato. Também é importante que as autoridades analisem os resultados da IA, pois o sistema pode cometer erros.
 
